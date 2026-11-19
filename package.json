@@ -1,0 +1,8 @@
+{
+  "name": "loopcut",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YouTube to GIF, entirely in the browser.",
+  "scripts": { "rebuild": "node build.js" },
+  "devDependencies": { "gifenc": "^1.0.3" }
+}
